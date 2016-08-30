@@ -2,6 +2,7 @@ PropelDatagridBundle
 ==============
 
 [![Join the chat at https://gitter.im/spyrit/PropelDatagridBundle](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/spyrit/PropelDatagridBundle?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![Build Status](https://travis-ci.org/spyrit/PropelDatagridBundle.svg?branch=master)](https://travis-ci.org/spyrit/PropelDatagridBundle)
 
 This bundle helps you to create and manage simple to complex datagrids quickly and easily.
 
@@ -31,10 +32,12 @@ Note : we have several branches.
     - Branch 1.0 is for backward-compatibility with old projects (PHP < 5.4).
     - Branch 1.1 requires PHP-5.4+ for `csanquer/colibri-csv 1.2`
     - Branch 1.2 integrates new functionnalities like dynamic max-per-page value
+    - Branch 1.3 implements batch (mass) actions
 * Branches 2.x are for Propel2 and Symfony2
     - Branch 2.0 is for backward-compatibility with old projects (PHP < 5.4).
     - Branch 2.1 requires PHP-5.4+ for `csanquer/colibri-csv` 1.2
     - Branch 2.2 integrates new functionnalities like dynamic max-per-page value
+    - Branch 2.3 implements batch (mass) actions
 * Branches 3.x are for Propel2 and Symfony3
 
 ### Enable the bundle
