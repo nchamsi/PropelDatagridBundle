@@ -19,3 +19,4 @@ Tests/Fixtures/App/src/Spyrit/TestBundle/Model/Map/
 # Composer
 composer.phar
 phpunit.phar
+/nbproject/private/
