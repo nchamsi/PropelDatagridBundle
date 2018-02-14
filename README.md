@@ -39,6 +39,7 @@ Note : we have several branches.
     - Branch 2.2 integrates new functionnalities like dynamic max-per-page value
     - Branch 2.3 implements batch (mass) actions
 * Branches 3.x are for Propel2 and Symfony3
+* Branches 4.x are for Propel2 and Symfony3.4 / Symfony4
 
 ### Enable the bundle
 
